@@ -1,0 +1,14 @@
+{
+  "name": "life-photoblog",
+  "version": "1.0.0",
+  "description": "Life Photoblog",
+  "main": "index.html",
+  "author": "Chris Mears",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.9.4",
+    "tailwindcss": "^0.6.1"
+  }
+}
